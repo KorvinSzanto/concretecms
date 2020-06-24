@@ -1,0 +1,11 @@
+{
+    "name": "concretecms/concrete-vendor",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Korvin Szanto",
+            "email": "me@kor.vin"
+        }
+    ],
+    "require": {}
+}
